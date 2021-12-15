@@ -1,2 +1,2 @@
 # dynamically-created-facebook-comment-plugin-
-Code that Dynamically created facebook comment plugins
+Code that Dynamically creates unique facebook comment plugins
